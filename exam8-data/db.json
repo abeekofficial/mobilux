@@ -1,0 +1,950 @@
+{
+  "users": [],
+  "all": [
+    {
+      "id": 1,
+      "title": "Смартфон Samsung Galaxy Z Fold 3 (Black) SM-F926BZKDSKZ",
+      "brand": "Samsung",
+      "type": "phone",
+      "price": "17 200 000",
+      "img": "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-07-05/1nuk7eVLHg5trPv0X0gHqvs8R5S3XuDWqOK9TyCyyRnTc2pcbVjIPJsHzXSP.jpg",
+      "discount": "-20",
+      "color": "Phantom Black",
+      "description": "Смартфон Samsung Galaxy Z Fold 3 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 2,
+      "title": "Смартфон Apple iphone 13 Pro Max 512 GB Graphite",
+      "brand": "Apple",
+      "type": "phone",
+      "price": "18 664 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-09-24/apple-iphone-13-pro-max-256gb-25295-0.jpeg",
+      "discount": "-20",
+      "color": "Graphite",
+      "description": "Смартфон Apple iPhone 13 Pro Max 512 GB Graphite Apple iPhone 13 Pro Max оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 3,
+      "title": "Смартфон Apple iPhone 13 Pro 128 GB Gold",
+      "brand": "Apple",
+      "type": "phone",
+      "price": "16 374 000",
+      "img": "https://olcha.uz/image/400x400/products/2021-09-24/apple-iphone-13-pro-128gb-gold-25271-0.jpeg",
+      "discount": "-20",
+      "color": "Gold",
+      "description": "Смартфон Apple iPhone 13 Pro 128 GB Gold Apple iPhone 13 Pro оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 4,
+      "title": "Смартфон Apple iPhone 13 Mini 512 GB red",
+      "brand": "Apple",
+      "type": "phone",
+      "price": "12 023 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-10-16/apple-iphone-13-mini-512gb-red-25930-0.jpeg",
+      "discount": "-20",
+      "color": "Red",
+      "description": "Смартфон Apple iPhone 13 Mini 512 GB red оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 5,
+      "title": "Смартфон Xiaomi Redmi Note 9 Pro 128 ГБ Glacier White",
+      "brand": "Xiaomi",
+      "type": "phone",
+      "price": "3 310 000",
+      "img": "https://olcha.uz/image/400x400/products/2020-07-03/xiaomi-redmi-note-9-pro-6128gb-glacier-white-global-14293-2.jpeg",
+      "discount": "-20",
+      "color": "Glacier White",
+      "description": "Смартфон Xiaomi Redmi Note 9 Pro 128 ГБ Glacier White оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 6,
+      "title": "Смартфон Artel U5",
+      "brand": "Artel",
+      "type": "phone",
+      "price": "1 200 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-12-09/smartfon-artel-u5-zolotistyy-29205-0.jpeg",
+      "discount": "-20",
+      "color": "Gold",
+      "description": "Смартфон Artel U5 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 7,
+      "title": "Смартфон Apple iPhone 2G",
+      "brand": "Apple",
+      "type": "phone",
+      "price": "50 000 000",
+      "img": "https://eoe.works/cdn/shop/products/image_1827bbdf-044e-4889-86cb-923d46cdde2d_1200x1200.png?v=1673512640",
+      "discount": "0",
+      "color": "Grey",
+      "description": "Смартфон Apple iPhone 2G оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 8,
+      "title": "Смартфон Nokia 1202",
+      "brand": "Nokia",
+      "type": "phone",
+      "price": "60 000",
+      "img": "https://basket-11.wbcontent.net/vol1629/part162988/162988862/images/big/2.webp",
+      "discount": "0",
+      "color": "Black",
+      "description": "Смартфон Nokia 1202 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 9,
+      "title": "Смартфон Apple iPhone 15 Pro Max  1TB",
+      "brand": "Apple",
+      "type": "phone",
+      "price": "28 111 000",
+      "discounted_price": "22 511 000",
+      "img": "https://olcha.uz/image/600x600/products/supplier/stores/1/2023-09-13/pQIvLk5PqlF9p4Wcobtd6rNjLTBo67eltmac4OoVMgVKa2X13vSXN9cITv77.jpg",
+      "discount": "-20",
+      "colors": "Natural Titanium",
+      "description": "Смартфон Apple iPhone 15 Pro Max оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 10,
+      "title": "Смартфон Samsung Galaxy M14 5G 64gb",
+      "brand": "Samsung",
+      "type": "phone",
+      "price": "1 800 000",
+      "img": "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-09-18/ESD8Oa9KAWpPVLO4zZGEAbbaGtM3IMg2Z8rDtwy8gZf0Eo9gMtuqT0cKUbRw.jpg",
+      "discount": "0",
+      "color": "Dark Blue",
+      "description": "Смартфон Samsung Galaxy M14 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 11,
+      "title": "Смартфон Xiaomi POCCO X3 Pro 256GB ",
+      "brand": "Xiaomi",
+      "type": "phone",
+      "price": "1 199 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-07-13/xiaomi-poco-x3-pro-8256gb-Frost-Blue-24427-0.jpeg",
+      "discount": "0",
+      "colors": "Frost Blue",
+      "description": "Смартфон Xiaomi Poco X3 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 12,
+      "title": "Планшет Samsung Galaxy Tab A8 10.5",
+      "brand": "Samsung",
+      "type": "tablet",
+      "price": "1 800 000",
+      "img": "https://olcha.uz/image/700x700/products/2fSFpPfCkSK6Y0j7YW0vfvSvRkRxyWuqXRFOHUR4D9UMA4KK1HquHvtCwjIk.jpg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Планшет Samsung Galaxy Tab A8 10.5 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 13,
+      "title": "Планшет Apple iPad Pro 11-inch M2 5G sim 1 TB",
+      "brand": "Apple",
+      "type": "tablet",
+      "price": "22 669 000",
+      "img": "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-05-04/SkU3uGC2h5s0nibP4vSBv10kjxviyPlfA4eBMgXvXVme3k7soaN8hbAE9Ttp.jpg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Планшет Apple iPad Pro 11-inch M2 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 14,
+      "title": "Планшет Xiaomi Pad 6 Pro 12/128GB",
+      "brand": "Xiaomi",
+      "type": "tablet",
+      "price": "4 577 000",
+      "img": "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-09-14/2IEgLRkMiDiGnpenEaINYDKTuBVyTU45Rr7hYHRTaN6RXBWxpB8HzYAF08ys.jpg",
+      "discount": "0",
+      "color": "Gold",
+      "description": "Планшет Xiaomi Pad 6 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 15,
+      "title": "Планшет Lenovo Tab M10 2/32GB",
+      "brand": "Lenovo",
+      "type": "tablet",
+      "price": "2 189 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-10-06/planshet-lenovo-tab-m10-plus-tb-x606x-232gb-silver-25630-2.jpeg",
+      "discount": "0",
+      "color": "Silver",
+      "description": "Планшет Lenovo Tab M10 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 16,
+      "title": "Планшет Huawei Matepad 10.4 64 GB",
+      "brand": "Huawei",
+      "type": "tablet",
+      "price": "4 445 000",
+      "img": "https://olcha.uz/image/700x700/products/2022-06-15/planshet-huawei-matepad-104-464-gb-59178-0.jpeg",
+      "discount": "0",
+      "color": "Grey",
+      "description": "Планшет Huawei Matepad 10.4 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 17,
+      "title": "Наушники Samsung Galaxy Buds 2 Pro",
+      "brand": "Samsung",
+      "type": "earphone",
+      "price": "1 199 000",
+      "img": "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-07-20/ACu9sklYQjT3BEXxPDBWQi4tDGWrGJfbB4RNoKDdzEUh9kTJx3UkCoFXAhMD.jpg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Наушники Samsung Galaxy Buds 2 Pro"
+    },
+    {
+      "id": 18,
+      "title": "Наушники Xiaomi QCY T1C",
+      "brand": "Xiaomi",
+      "type": "earphone",
+      "price": "225 000",
+      "img": "https://olcha.uz/image/700x700/products//supplier/stores/27076/qc.png",
+      "discount": "0",
+      "color": "Black",
+      "description": "Наушники Xiaomi QCY T1C"
+    },
+    {
+      "id": 19,
+      "title": "Наушники Vivo TWS",
+      "brand": "Vivo",
+      "type": "earphone",
+      "price": "899 000",
+      "img": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-15/XfFeouVC1AQYHA43fJnGEbu1ff20tn1sxuNHKGMBFciqKDB3NcyQuxELp80b.jpg",
+      "discount": "0",
+      "color": "White",
+      "description": "Наушники Vivo TWS"
+    },
+    {
+      "id": 20,
+      "title": "Наушники Xiaomi Redmi Buds 4 Lite",
+      "brand": "Xiaomi",
+      "type": "earphone",
+      "price": "345 000",
+      "img": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-03-07/p47p4OfJ4lgpw63zmQWplCMlUPcQFltfeZzRdFFYY9oXo8njJa5yfj4NKWFQ7cwt.jpeg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Наушники Xiaomi Redmi Buds 4 Lite"
+    },
+    {
+      "id": 21,
+      "title": "Наушники Apple AirPods Max Green",
+      "brand": "Apple",
+      "type": "earphone",
+      "price": "8 883 000",
+      "img": "https://olcha.uz/image/700x700/products/2022-06-14/besprovodnye-naushniki-apple-airpods-max-green-58623-0.jpeg",
+      "discount": "0",
+      "color": "Green",
+      "description": "Наушники Apple AirPods Max Green"
+    },
+    {
+      "id": 22,
+      "title": "Накопитель SSD 1 TB",
+      "brand": "Samsung",
+      "type": "flashDrive",
+      "price": "1 000 000",
+      "img": "https://olcha.uz/image/original/products/2022-12-19/ssd-samsung-980-nvme-m2-1-tb-183400-0.jpeg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Накопитель SSD 1 TB"
+    },
+    {
+      "id": 23,
+      "title": "Накопитель Kingston SDS2/512GB",
+      "brand": "Kingston",
+      "type": "flashDrive",
+      "price": "1 541 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-09-08/karta-pamyati-kingston-sds2512gb-25060-2.jpeg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Накопитель Kingston SDS2/512GB"
+    },
+    {
+      "id": 24,
+      "title": "Накопитель Kingston Canvas Select Plus 256GB Single Pack",
+      "brand": "Kingston",
+      "type": "flashDrive",
+      "price": "681 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-09-07/karta-pamyati-kingston-canvas-select-plus-256gb-single-pack-sdcs2256gbsp-25051-2.jpeg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Накопитель Kingston Canvas Select Plus 256GB Single Pack"
+    },
+    {
+      "id": 25,
+      "title": "Аксессуар Green Lion Monaco MagSafe Power Bank 10000mAh 61813",
+      "brand": "Green Lion",
+      "type": "accessories",
+      "price": "520 000 ",
+      "img": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-03-19/ZCfzDrdqlpxq0q4aFDb7RiqhZejaL8JtbSfqfZkqwp8Mg735jJWXUbe0611je92M.jpeg",
+      "discount": "0",
+      "color": "Purple",
+      "description": "Вход типа C: 5 В постоянного тока-3 А/9 В-2,25 А/12 В-1,5 А. Выход молнии: DC5V-2.4A. Выход USB: DC4,5 В-5А/5 В-4,5/5 В-3 А/9 В-2 А/12 В-1,5.  Беспроводной выход: 5 Вт/7,5 Вт/10 Вт/15 Вт. Исполнительный стандарт: GB/T35590-2017. Модель: GNMGMPB10"
+    },
+    {
+      "id": 25,
+      "title": "Аксессуар HOCO HD7 61363",
+      "brand": "HOCO",
+      "type": "accessories",
+      "price": "79 000",
+      "img": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-02-27/cRROQWuQgCz1T8pVTmGoLefmRA8l9fQTZW0SByK5CUSpHTTerDAMqCbiJa6lZO9O.jpeg",
+      "discount": "0",
+      "color": "Grey",
+      "description": "Аксессуар HOCO HD7 61363"
+    },
+    {
+      "id": 25,
+      "title": "Аксессуар Apple Pencil",
+      "brand": "Apple",
+      "type": "accessories",
+      "price": "1 726 000",
+      "img": "https://olcha.uz/image/700x700/products/2018-08-07/apple-pencil-4483-0.jpg",
+      "discount": "0",
+      "color": "White",
+      "description": "Аксессуар Apple Pencil"
+    },
+    {
+      "id": 26,
+      "title": "Защитное стекло Whitestone Dome glass для iPhone 13/13 Pro",
+      "brand": "Whitestone",
+      "type": "accessories",
+      "price": "687 244",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf-lxbYxLqQqilXntHiQLQ4wOzT1WY-rXfNw&usqp=CAU",
+      "discount": "0",
+      "color": "transparent",
+      "description": "Защитное стекло Whitestone Dome glass для iPhone 13/13 Pro"
+    },
+    {
+      "id": 27,
+      "title": "Чехол для смартфона VLP Crystal Case MagSafe ",
+      "brand": "VLP",
+      "type": "accessories",
+      "price": "687 244",
+      "img": "https://olcha.uz/image/original/products/2023-01-06/chekhol-dlya-apple-iphone-magsafe-186556-2.jpg",
+      "discount": "0",
+      "color": "transparent",
+      "description": "Чехол для смартфона VLP Crystal Case MagSafe для  зашитит вашей iPhone"
+    },
+    {
+      "id": 28,
+      "title": "Смарт часы Apple Watch Series 7 45mm",
+      "brand": "Apple",
+      "type": "gadgets",
+      "price": "5 233 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-10-17/apple-watch-series-7-45mm-aluminium-with-sport-band-moonlight-white-25955-0.jpeg",
+      "discount": "0",
+      "color": "Starlight",
+      "description": "Смарт часы Apple Watch Series 7 45mm"
+    },
+    {
+      "id": 29,
+      "title": "Смарт часы Samsung Galaxy Watch Active 2 40mm Vanilla",
+      "brand": "Samsung",
+      "type": "gadgets",
+      "price": "2 290 000",
+      "img": "https://olcha.uz/image/700x700/products/2020-04-03/samsung-galaxy-watch-active-2-40mm-pink-gold-13116-1.jpeg",
+      "discount": "0",
+      "color": "Pink Gold",
+      "description": "Смарт часы Samsung Galaxy Watch Active 2 40mm Vanilla"
+    },
+    {
+      "id": 30,
+      "title": "Фитнес-браслет Xiaomi Mi Smart Band 6",
+      "brand": "Xiaomi",
+      "type": "gadgets",
+      "price": "516 000",
+      "img": "https://cdn.olcha.uz/image/original/products//woocomerce/sp-phone/2023-02-15/PICKNzOHWIl1OpPVeSbbIT4nFEgGVL4BbtCAxhm01pJbZlimsrkfNUss7ue4xyeM.jpeg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Фитнес-браслет Xiaomi Mi Smart Band 6"
+    },
+    {
+      "id": 31,
+      "title": "Настольные часы Philips HF3520/70",
+      "brand": "Xiaomi",
+      "type": "gadgets",
+      "price": "3 233 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-01-04/svetovoy-budilnik-philips-wake-up-light-hf352070-20433-0.jpeg",
+      "discount": "0",
+      "color": "Gold",
+      "description": "Настольные часы Philips HF3520/70"
+    },
+    {
+      "id": 32,
+      "title": "Наручные часы Casio BA-110-7A3 Baby-G White",
+      "brand": "Casio",
+      "type": "gadgets",
+      "price": "1 602 000",
+      "img": "https://cdn.mediapark.uz/imgs/ff134c0b-e8e1-4391-91e3-78388cb17327_test.webp",
+      "discount": "0",
+      "color": "Silver",
+      "description": "Наручные часы Casio BA-110-7A3 Baby-G White"
+    },
+    {
+      "id": 33,
+      "title": "Аккумулятор Xiaomi Mi Power Bank 10000mAh",
+      "brand": "Xiaomi",
+      "type": "chargers",
+      "price": "233 000",
+      "img": "https://olcha.uz/image/700x700/products/2022-06-09/portativnoe-zaryadnoe-ustroystvo-xiaomi-10000mah18w-fast-charge-power-bank-3-57457-2.jpeg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Аккумулятор Xiaomi Mi Power Bank 10000mAh"
+    },
+    {
+      "id": 34,
+      "title": "Power Bank HOCO J45 PRO 10000MAH",
+      "brand": "HOCO",
+      "type": "chargers",
+      "price": "286 000",
+      "img": "https://cdn.olcha.uz/image/700x700/products//woocomerce/sp-phone/2023-02-15/SzBuWH6pGMCL6TYCPmc94bwt61xNIRaAT1h28ihA0yKEoFe1AFJLS73TGJvaLKGW.png",
+      "discount": "0",
+      "color": "Black",
+      "description": "Power Bank HOCO J45 PRO 10000MAH"
+    },
+    {
+      "id": 35,
+      "title": "Quvvatlash qurilmasi Apple MagSafe Charger",
+      "brand": "Apple",
+      "type": "chargers",
+      "price": "2 875 000",
+      "img": "https://olcha.uz/image/700x700/products/2022-12-06/zaryadnoe-ustroystvo-apple-magsafe-charger-173401-0.jpeg",
+      "discount": "0",
+      "color": "White",
+      "description": "Quvvatlash qurilmasi Apple MagSafe Charger"
+    },
+    {
+      "id": 36,
+      "title": "Original Samsung 45W 51448 zaryadlovchi sp-phone51448",
+      "brand": "Samsung",
+      "type": "chargers",
+      "price": "445 000",
+      "img": "https://cdn.olcha.uz/image/700x700/products//woocomerce/sp-phone/2023-02-15/cshmxKAMG56NwGsqlWODwNVK3eBcsMDDEs8MqD8QbV05QOktKBclLNVoP1VeCxGQ.png",
+      "discount": "0",
+      "color": "Black",
+      "description": "Original Samsung 45W 51448 zaryadlovchi sp-phone51448"
+    },
+    {
+      "id": 37,
+      "title": "Apple USB-C Power Adapter A2344",
+      "brand": "Apple",
+      "type": "chargers",
+      "price": "300 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-03-11/apple-usb-c-power-adapter-a2344-white-22244-0.jpeg",
+      "discount": "0",
+      "color": "White",
+      "description": "Apple USB-C Power Adapter A2344"
+    }
+  ],
+  "phones": [
+    {
+      "id": 1,
+      "title": "Смартфон Samsung Galaxy Z Fold 3 (Black) SM-F926BZKDSKZ",
+      "brand": "Samsung",
+      "type": "phone",
+      "price": "17 200 000",
+      "img": "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-07-05/1nuk7eVLHg5trPv0X0gHqvs8R5S3XuDWqOK9TyCyyRnTc2pcbVjIPJsHzXSP.jpg",
+      "discount": "-20",
+      "color": "Phantom Black",
+      "description": "Смартфон Samsung Galaxy Z Fold 3 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 2,
+      "title": "Смартфон Apple iphone 13 Pro Max 512 GB Graphite",
+      "brand": "Apple",
+      "type": "phone",
+      "price": "18 664 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-09-24/apple-iphone-13-pro-max-256gb-25295-0.jpeg",
+      "discount": "-20",
+      "color": "Graphite",
+      "description": "Смартфон Apple iPhone 13 Pro Max 512 GB Graphite Apple iPhone 13 Pro Max оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 3,
+      "title": "Смартфон Apple iPhone 13 Pro 128 GB Gold",
+      "brand": "Apple",
+      "type": "phone",
+      "price": "16 374 000",
+      "img": "https://olcha.uz/image/400x400/products/2021-09-24/apple-iphone-13-pro-128gb-gold-25271-0.jpeg",
+      "discount": "-20",
+      "color": "Gold",
+      "description": "Смартфон Apple iPhone 13 Pro 128 GB Gold Apple iPhone 13 Pro оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 4,
+      "title": "Смартфон Apple iPhone 13 Mini 512 GB red",
+      "brand": "Apple",
+      "type": "phone",
+      "price": "12 023 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-10-16/apple-iphone-13-mini-512gb-red-25930-0.jpeg",
+      "discount": "-20",
+      "color": "Red",
+      "description": "Смартфон Apple iPhone 13 Mini 512 GB red оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 5,
+      "title": "Смартфон Xiaomi Redmi Note 9 Pro 128 ГБ Glacier White",
+      "brand": "Xiaomi",
+      "type": "phone",
+      "price": "3 310 000",
+      "img": "https://olcha.uz/image/400x400/products/2020-07-03/xiaomi-redmi-note-9-pro-6128gb-glacier-white-global-14293-2.jpeg",
+      "discount": "-20",
+      "color": "Glacier White",
+      "description": "Смартфон Xiaomi Redmi Note 9 Pro 128 ГБ Glacier White оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 6,
+      "title": "Смартфон Artel U5",
+      "brand": "Artel",
+      "type": "phone",
+      "price": "1 200 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-12-09/smartfon-artel-u5-zolotistyy-29205-0.jpeg",
+      "discount": "-20",
+      "color": "Gold",
+      "description": "Смартфон Artel U5 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 7,
+      "title": "Смартфон Apple iPhone 2G",
+      "brand": "Apple",
+      "type": "phone",
+      "price": "50 000 000",
+      "img": "https://eoe.works/cdn/shop/products/image_1827bbdf-044e-4889-86cb-923d46cdde2d_1200x1200.png?v=1673512640",
+      "discount": "0",
+      "color": "Grey",
+      "description": "Смартфон Apple iPhone 2G оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 8,
+      "title": "Смартфон Nokia 1202",
+      "brand": "Nokia",
+      "type": "phone",
+      "price": "60 000",
+      "img": "https://basket-11.wbcontent.net/vol1629/part162988/162988862/images/big/2.webp",
+      "discount": "0",
+      "color": "Black",
+      "description": "Смартфон Nokia 1202 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 9,
+      "title": "Смартфон Apple iPhone 15 Pro Max  1TB",
+      "brand": "Apple",
+      "type": "phone",
+      "price": "28 111 000",
+      "discounted_price": "22 511 000",
+      "img": "https://olcha.uz/image/600x600/products/supplier/stores/1/2023-09-13/pQIvLk5PqlF9p4Wcobtd6rNjLTBo67eltmac4OoVMgVKa2X13vSXN9cITv77.jpg",
+      "discount": "-20",
+      "colors": "Natural Titanium",
+      "description": "Смартфон Apple iPhone 15 Pro Max оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 10,
+      "title": "Смартфон Samsung Galaxy M14 5G 64gb",
+      "brand": "Samsung",
+      "type": "phone",
+      "price": "1 800 000",
+      "img": "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-09-18/ESD8Oa9KAWpPVLO4zZGEAbbaGtM3IMg2Z8rDtwy8gZf0Eo9gMtuqT0cKUbRw.jpg",
+      "discount": "0",
+      "color": "Dark Blue",
+      "description": "Смартфон Samsung Galaxy M14 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 11,
+      "title": "Смартфон Xiaomi POCCO X3 Pro 256GB ",
+      "brand": "Xiaomi",
+      "type": "phone",
+      "price": "1 199 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-07-13/xiaomi-poco-x3-pro-8256gb-Frost-Blue-24427-0.jpeg",
+      "discount": "0",
+      "colors": "Frost Blue",
+      "description": "Смартфон Xiaomi Poco X3 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    }
+  ],
+  
+  "tablets": [
+    {
+      "id": 12,
+      "title": "Планшет Samsung Galaxy Tab A8 10.5",
+      "brand": "Samsung",
+      "type": "tablet",
+      "price": "1 800 000",
+      "img": "https://olcha.uz/image/700x700/products/2fSFpPfCkSK6Y0j7YW0vfvSvRkRxyWuqXRFOHUR4D9UMA4KK1HquHvtCwjIk.jpg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Планшет Samsung Galaxy Tab A8 10.5 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 13,
+      "title": "Планшет Apple iPad Pro 11-inch M2 5G sim 1 TB",
+      "brand": "Apple",
+      "type": "tablet",
+      "price": "22 669 000",
+      "img": "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-05-04/SkU3uGC2h5s0nibP4vSBv10kjxviyPlfA4eBMgXvXVme3k7soaN8hbAE9Ttp.jpg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Планшет Apple iPad Pro 11-inch M2 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 14,
+      "title": "Планшет Xiaomi Pad 6 Pro 12/128GB",
+      "brand": "Xiaomi",
+      "type": "tablet",
+      "price": "4 577 000",
+      "img": "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-09-14/2IEgLRkMiDiGnpenEaINYDKTuBVyTU45Rr7hYHRTaN6RXBWxpB8HzYAF08ys.jpg",
+      "discount": "0",
+      "color": "Gold",
+      "description": "Планшет Xiaomi Pad 6 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 15,
+      "title": "Планшет Lenovo Tab M10 2/32GB",
+      "brand": "Lenovo",
+      "type": "tablet",
+      "price": "2 189 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-10-06/planshet-lenovo-tab-m10-plus-tb-x606x-232gb-silver-25630-2.jpeg",
+      "discount": "0",
+      "color": "Silver",
+      "description": "Планшет Lenovo Tab M10 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    },
+    {
+      "id": 16,
+      "title": "Планшет Huawei Matepad 10.4 64 GB",
+      "brand": "Huawei",
+      "type": "tablet",
+      "price": "4 445 000",
+      "img": "https://olcha.uz/image/700x700/products/2022-06-15/planshet-huawei-matepad-104-464-gb-59178-0.jpeg",
+      "discount": "0",
+      "color": "Grey",
+      "description": "Планшет Huawei Matepad 10.4 оснащен передовыми технологиями, значительно расширяющими функциональные возможности девайса. На тыльной стороне девайса расположен инновационный"
+    }
+  ],
+
+  "earphones": [
+    {
+      "id": 17,
+      "title": "Наушники Samsung Galaxy Buds 2 Pro",
+      "brand": "Samsung",
+      "type": "earphone",
+      "price": "1 199 000",
+      "img": "https://olcha.uz/image/700x700/products/supplier/stores/1/2023-07-20/ACu9sklYQjT3BEXxPDBWQi4tDGWrGJfbB4RNoKDdzEUh9kTJx3UkCoFXAhMD.jpg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Наушники Samsung Galaxy Buds 2 Pro"
+    },
+    {
+      "id": 18,
+      "title": "Наушники Xiaomi QCY T1C",
+      "brand": "Xiaomi",
+      "type": "earphone",
+      "price": "225 000",
+      "img": "https://olcha.uz/image/700x700/products//supplier/stores/27076/qc.png",
+      "discount": "0",
+      "color": "Black",
+      "description": "Наушники Xiaomi QCY T1C"
+    },
+    {
+      "id": 19,
+      "title": "Наушники Vivo TWS",
+      "brand": "Vivo",
+      "type": "earphone",
+      "price": "899 000",
+      "img": "https://olcha.uz/image/700x700/products/cdn_1/supplier/stores/1/2024-03-15/XfFeouVC1AQYHA43fJnGEbu1ff20tn1sxuNHKGMBFciqKDB3NcyQuxELp80b.jpg",
+      "discount": "0",
+      "color": "White",
+      "description": "Наушники Vivo TWS"
+    },
+    {
+      "id": 20,
+      "title": "Наушники Xiaomi Redmi Buds 4 Lite",
+      "brand": "Xiaomi",
+      "type": "earphone",
+      "price": "345 000",
+      "img": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-03-07/p47p4OfJ4lgpw63zmQWplCMlUPcQFltfeZzRdFFYY9oXo8njJa5yfj4NKWFQ7cwt.jpeg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Наушники Xiaomi Redmi Buds 4 Lite"
+    },
+    {
+      "id": 21,
+      "title": "Наушники Apple AirPods Max Green",
+      "brand": "Apple",
+      "type": "earphone",
+      "price": "8 883 000",
+      "img": "https://olcha.uz/image/700x700/products/2022-06-14/besprovodnye-naushniki-apple-airpods-max-green-58623-0.jpeg",
+      "discount": "0",
+      "color": "Green",
+      "description": "Наушники Apple AirPods Max Green"
+    }
+  ],
+
+  "flashDrive": [
+    {
+      "id": 22,
+      "title": "Накопитель SSD 1 TB",
+      "brand": "Samsung",
+      "type": "flashDrive",
+      "price": "1 000 000",
+      "img": "https://olcha.uz/image/original/products/2022-12-19/ssd-samsung-980-nvme-m2-1-tb-183400-0.jpeg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Накопитель SSD 1 TB"
+    },
+    {
+      "id": 23,
+      "title": "Накопитель Kingston SDS2/512GB",
+      "brand": "Kingston",
+      "type": "flashDrive",
+      "price": "1 541 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-09-08/karta-pamyati-kingston-sds2512gb-25060-2.jpeg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Накопитель Kingston SDS2/512GB"
+    },
+    {
+      "id": 24,
+      "title": "Накопитель Kingston Canvas Select Plus 256GB Single Pack",
+      "brand": "Kingston",
+      "type": "flashDrive",
+      "price": "681 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-09-07/karta-pamyati-kingston-canvas-select-plus-256gb-single-pack-sdcs2256gbsp-25051-2.jpeg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Накопитель Kingston Canvas Select Plus 256GB Single Pack"
+    }
+  ],
+
+  "accessories": [
+    {
+      "id": 25,
+      "title": "Аксессуар Green Lion Monaco MagSafe Power Bank 10000mAh 61813",
+      "brand": "Green Lion",
+      "type": "accessories",
+      "price": "520 000 ",
+      "img": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-03-19/ZCfzDrdqlpxq0q4aFDb7RiqhZejaL8JtbSfqfZkqwp8Mg735jJWXUbe0611je92M.jpeg",
+      "discount": "0",
+      "color": "Purple",
+      "description": "Вход типа C: 5 В постоянного тока-3 А/9 В-2,25 А/12 В-1,5 А. Выход молнии: DC5V-2.4A. Выход USB: DC4,5 В-5А/5 В-4,5/5 В-3 А/9 В-2 А/12 В-1,5.  Беспроводной выход: 5 Вт/7,5 Вт/10 Вт/15 Вт. Исполнительный стандарт: GB/T35590-2017. Модель: GNMGMPB10"
+    },
+    {
+      "id": 25,
+      "title": "Аксессуар HOCO HD7 61363",
+      "brand": "HOCO",
+      "type": "accessories",
+      "price": "79 000",
+      "img": "https://cdn.olcha.uz/image/700x700/products/woocomerce/sp-phone/2024-02-27/cRROQWuQgCz1T8pVTmGoLefmRA8l9fQTZW0SByK5CUSpHTTerDAMqCbiJa6lZO9O.jpeg",
+      "discount": "0",
+      "color": "Grey",
+      "description": "Аксессуар HOCO HD7 61363"
+    },
+    {
+      "id": 25,
+      "title": "Аксессуар Apple Pencil",
+      "brand": "Apple",
+      "type": "accessories",
+      "price": "1 726 000",
+      "img": "https://olcha.uz/image/700x700/products/2018-08-07/apple-pencil-4483-0.jpg",
+      "discount": "0",
+      "color": "White",
+      "description": "Аксессуар Apple Pencil"
+    },
+    {
+      "id": 26,
+      "title": "Защитное стекло Whitestone Dome glass для iPhone 13/13 Pro",
+      "brand": "Whitestone",
+      "type": "accessories",
+      "price": "687 244",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf-lxbYxLqQqilXntHiQLQ4wOzT1WY-rXfNw&usqp=CAU",
+      "discount": "0",
+      "color": "transparent",
+      "description": "Защитное стекло Whitestone Dome glass для iPhone 13/13 Pro"
+    },
+    {
+      "id": 27,
+      "title": "Чехол для смартфона VLP Crystal Case MagSafe ",
+      "brand": "VLP",
+      "type": "accessories",
+      "price": "687 244",
+      "img": "https://olcha.uz/image/original/products/2023-01-06/chekhol-dlya-apple-iphone-magsafe-186556-2.jpg",
+      "discount": "0",
+      "color": "transparent",
+      "description": "Чехол для смартфона VLP Crystal Case MagSafe для  зашитит вашей iPhone"
+    }
+  ],
+  "gadgets": [
+    {
+      "id": 28,
+      "title": "Смарт часы Apple Watch Series 7 45mm",
+      "brand": "Apple",
+      "type": "gadgets",
+      "price": "5 233 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-10-17/apple-watch-series-7-45mm-aluminium-with-sport-band-moonlight-white-25955-0.jpeg",
+      "discount": "0",
+      "color": "Starlight",
+      "description": "Смарт часы Apple Watch Series 7 45mm"
+    },
+    {
+      "id": 29,
+      "title": "Смарт часы Samsung Galaxy Watch Active 2 40mm Vanilla",
+      "brand": "Samsung",
+      "type": "gadgets",
+      "price": "2 290 000",
+      "img": "https://olcha.uz/image/700x700/products/2020-04-03/samsung-galaxy-watch-active-2-40mm-pink-gold-13116-1.jpeg",
+      "discount": "0",
+      "color": "Pink Gold",
+      "description": "Смарт часы Samsung Galaxy Watch Active 2 40mm Vanilla"
+    },
+    {
+      "id": 30,
+      "title": "Фитнес-браслет Xiaomi Mi Smart Band 6",
+      "brand": "Xiaomi",
+      "type": "gadgets",
+      "price": "516 000",
+      "img": "https://cdn.olcha.uz/image/original/products//woocomerce/sp-phone/2023-02-15/PICKNzOHWIl1OpPVeSbbIT4nFEgGVL4BbtCAxhm01pJbZlimsrkfNUss7ue4xyeM.jpeg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Фитнес-браслет Xiaomi Mi Smart Band 6"
+    },
+    {
+      "id": 31,
+      "title": "Настольные часы Philips HF3520/70",
+      "brand": "Xiaomi",
+      "type": "gadgets",
+      "price": "3 233 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-01-04/svetovoy-budilnik-philips-wake-up-light-hf352070-20433-0.jpeg",
+      "discount": "0",
+      "color": "Gold",
+      "description": "Настольные часы Philips HF3520/70"
+    },
+    {
+      "id": 32,
+      "title": "Наручные часы Casio BA-110-7A3 Baby-G White",
+      "brand": "Casio",
+      "type": "gadgets",
+      "price": "1 602 000",
+      "img": "https://cdn.mediapark.uz/imgs/ff134c0b-e8e1-4391-91e3-78388cb17327_test.webp",
+      "discount": "0",
+      "color": "Silver",
+      "description": "Наручные часы Casio BA-110-7A3 Baby-G White"
+    }
+  ],
+
+  "chargers": [
+    {
+      "id": 33,
+      "title": "Аккумулятор Xiaomi Mi Power Bank 10000mAh",
+      "brand": "Xiaomi",
+      "type": "chargers",
+      "price": "233 000",
+      "img": "https://olcha.uz/image/700x700/products/2022-06-09/portativnoe-zaryadnoe-ustroystvo-xiaomi-10000mah18w-fast-charge-power-bank-3-57457-2.jpeg",
+      "discount": "0",
+      "color": "Black",
+      "description": "Аккумулятор Xiaomi Mi Power Bank 10000mAh"
+    },
+    {
+      "id": 34,
+      "title": "Power Bank HOCO J45 PRO 10000MAH",
+      "brand": "HOCO",
+      "type": "chargers",
+      "price": "286 000",
+      "img": "https://cdn.olcha.uz/image/700x700/products//woocomerce/sp-phone/2023-02-15/SzBuWH6pGMCL6TYCPmc94bwt61xNIRaAT1h28ihA0yKEoFe1AFJLS73TGJvaLKGW.png",
+      "discount": "0",
+      "color": "Black",
+      "description": "Power Bank HOCO J45 PRO 10000MAH"
+    },
+    {
+      "id": 35,
+      "title": "Quvvatlash qurilmasi Apple MagSafe Charger",
+      "brand": "Apple",
+      "type": "chargers",
+      "price": "2 875 000",
+      "img": "https://olcha.uz/image/700x700/products/2022-12-06/zaryadnoe-ustroystvo-apple-magsafe-charger-173401-0.jpeg",
+      "discount": "0",
+      "color": "White",
+      "description": "Quvvatlash qurilmasi Apple MagSafe Charger"
+    },
+    {
+      "id": 36,
+      "title": "Original Samsung 45W 51448 zaryadlovchi sp-phone51448",
+      "brand": "Samsung",
+      "type": "chargers",
+      "price": "445 000",
+      "img": "https://cdn.olcha.uz/image/700x700/products//woocomerce/sp-phone/2023-02-15/cshmxKAMG56NwGsqlWODwNVK3eBcsMDDEs8MqD8QbV05QOktKBclLNVoP1VeCxGQ.png",
+      "discount": "0",
+      "color": "Black",
+      "description": "Original Samsung 45W 51448 zaryadlovchi sp-phone51448"
+    },
+
+    {
+      "id": 37,
+      "title": "Apple USB-C Power Adapter A2344",
+      "brand": "Apple",
+      "type": "chargers",
+      "price": "300 000",
+      "img": "https://olcha.uz/image/700x700/products/2021-03-11/apple-usb-c-power-adapter-a2344-white-22244-0.jpeg",
+      "discount": "0",
+      "color": "White",
+      "description": "Apple USB-C Power Adapter A2344"
+    }
+  ],
+
+  "banners": [
+    {
+      "id": 38,
+      "title": "Huawei",
+      "type": "banners",
+      "img": "https://mini-io-api.texnomart.uz/newcontent/slider/90/831z1PK1LbyKwpWuMCDACrQrijitSk2GlKFlo2a4.webp"
+    },
+    {
+      "id": 39,
+      "title": "Xiaomi",
+      "type": "banners",
+      "img": "https://mini-io-api.texnomart.uz/newcontent/slider/103/0MZzYBlC8q7gHtiCBMcdDgsSGzqMyxho4hxlBrYl.webp"
+    },
+    {
+      "id": 40,
+      "title": "Samsung",
+      "type": "banners",
+      "img": "https://olcha.uz/image/original/sliders/ru/cdn_1/2024-03-25/PlbK8WbNCIIuNRZqnBzYOjJ2HRQL0kxfEnEk2HgqXoRPZNPIEGMyAsI1qTJG.png"
+    },
+    {
+      "id": 41,
+      "title": "Huawei",
+      "type": "banners",
+      "img": "https://minio.alifnasiya.uz/shop/catalog/carousel/196/1707476026-1600491_x8b.png"
+    }
+  ],
+
+  "categories": [
+    {
+      "id": 42,
+      "title": "Smartfonlar",
+      "type": "phones"
+    },
+    {
+      "id": 43,
+      "title": "Planshetlar",
+      "type": "tablets"
+    },
+    {
+      "id": 44,
+      "title": "Quloqchinlar",
+      "type": "earphones"
+    },
+    {
+      "id": 45,
+      "title": "Xotira kartalari",
+      "type": "flashDrive"
+    },
+    {
+      "id": 46,
+      "title": "Smartfon aksesuarlari",
+      "type": "accessories"
+    },
+    {
+      "id": 47,
+      "title": "Gadjetlar",
+      "type": "gadgets"
+    },
+    {
+      "id": 48,
+      "title": "Quvvatlovchi uskunalar",
+      "type": "chargers"
+    }
+  ]
+}

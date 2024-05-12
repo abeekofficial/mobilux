@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "json-server-auth db.json -r routes.json -p 7777"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "json-server-auth": "^2.1.0"
+  }
+}
